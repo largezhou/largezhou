@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![header](https://files-1255818803.cos.ap-guangzhou.myqcloud.com/%E5%9B%BE%E7%89%87/%E5%B0%91%E4%BD%90.jpeg)
+![header](https://raw.githubusercontent.com/largezhou/largezhou/master/%E6%94%BB%E5%A3%B3%E6%9C%BA%E5%8A%A8%E9%98%9F01.jpg)
